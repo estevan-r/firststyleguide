@@ -1,0 +1,104 @@
+body {
+  margin: 36px 36px;
+  background-color: #E3E3E3;
+}
+
+h1 {
+  font-family: 'Archivo', sans-serif;
+  font-weight: 700;
+  color: #243763;
+}
+
+h2 {
+  font-family: 'Archivo', sans-serif;
+  color: #6A6A6A;
+}
+
+p {
+  font-family: 'Archivo', sans-serif;
+  font-weight: 400;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+
+ul, li {
+  font-family: 'archivo';
+  line-height: 1.6;
+}
+
+.container {
+  border: 3px solid #C0C0C0;
+  border-radius: 6px;
+  padding: 0px 24px 12px;
+  margin: 36px auto;
+}
+
+.colors {
+  width: 100%;
+  padding-bottom: 24px;
+}
+
+.color-panel {
+  display: inline-block;
+  text-align: center;
+  margin: 2px auto;
+  min-height: 200px;
+  min-width: 200px;
+  padding: 24px;
+  border-radius: 6px;
+}
+
+.color-label {
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.navy {
+  background-color: #243763;
+  color: #FFFFFF;
+}
+
+.orange {
+  background-color: #FF6E31;
+  color: #FFFFFF;
+}
+
+.yellow {
+  background-color: #FFEBB7;
+  color: #000000;
+}
+
+.brown {
+  background-color: #AD8E70;
+  color: #FFFFFF;
+}
+
+.font-panel {
+  margin-bottom: 24px;
+}
+
+.font-label {
+  font-size: 22px;
+  text-decoration: underline;
+}
+
+.archivo100 {
+  font-weight: 100;
+}
+
+.archivo700 {
+  font-weight: 700;
+}
+
+.libre {
+  font-family: 'Libre Baskerville';
+}
+
+.libre400 {
+  font-family: 'Libre Baskerville';
+}
+
+.text-panel {
+  margin-bottom: 24px;
+}
+
